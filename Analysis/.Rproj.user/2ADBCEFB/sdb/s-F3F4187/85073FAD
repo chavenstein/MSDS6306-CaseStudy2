@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "################\n# Gather.R\n#\n# Read CSV files from the Data folder\n# Cam Lu, Festus Yeboah, Chris Havenstein\n# Updated 8/20/2017\n# Project MSDS 6306 Case 2 Study.\n# \n################\n\n#set the project working directory to your local Analysis directory\nsetwd(\"C:/Users/Chris/Desktop/GIT home/MSDS 6306 - Case Study 2/Analysis\")\n#get the project working directory\n#getwd()\n\n\n#Load the R data set \"Orange\" into memory to calculate the mean, median of orange tree truck \n#circumferences for different size of tree\ndata(\"Orange\")\n\n\n#Display first 10 rows of Orange raw data.\n#head(Orange)\n\n#Read temperature data provided by Instructor for monthly average temperature for different countries.\ntemp <- read.csv(file = \"data/TEMP.csv\", header = TRUE)\n\n#display the first ten rows of temperature data.\n#head(temp)\n\n#Read different temperature data set also provided by Instructor for City temperatures\nCityTemp <- read.csv(file = \"data/CityTemp.csv\", header = TRUE)\n\n\n\n\n\n",
+    "created" : 1503197488750.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2868193022",
+    "id" : "85073FAD",
+    "lastKnownWriteTime" : 1503256769,
+    "last_content_update" : 1503256769654,
+    "path" : "C:/Users/Chris/Desktop/GIT home/MSDS 6306 - Case Study 2/Analysis/Gather.R",
+    "project_path" : "Gather.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

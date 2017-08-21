@@ -1,0 +1,6 @@
+"0","#first we need to convert the circumferences to diameters, to add a new column called diameter"
+"0","#Diameter = Circumference/pi"
+"0","Orange$Diameter <- Orange$circumference/pi"
+"0","#Show that the scatterplot is ordered in increasing order of diameter by tree group"
+"0","DiameterSummary <- summaryBy(Diameter~Tree, data = Orange, FUN = c(mean, median, max, min))"
+"0","DiameterSummary"

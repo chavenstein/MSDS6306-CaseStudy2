@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503258542254.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "72A846D4",
+    "lastKnownWriteTime" : 3419473787924512770,
+    "last_content_update" : 1503258542254,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AB54234D",
+        "caption" : "CityTemp1900",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CityTemp1900&cache_key=AB54234D",
+        "displayedObservations" : 135036,
+        "environment" : "",
+        "object" : "CityTemp1900",
+        "preview" : 0,
+        "totalObservations" : 135036,
+        "variables" : 7
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

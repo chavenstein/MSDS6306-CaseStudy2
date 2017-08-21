@@ -1,0 +1,2 @@
+"0","g <- ggplot(data = Orange, aes(Tree, circumference))"
+"0","g + geom_boxplot(aes(color = Tree)) + labs(x = ""Ordered Tree Factor"", y = ""Tree Trunk Circumferences (mm)"", title = ""Orange Tree Factor vs. Truck Circumferences"") + theme(plot.title = element_text(hjust = 0.5))"

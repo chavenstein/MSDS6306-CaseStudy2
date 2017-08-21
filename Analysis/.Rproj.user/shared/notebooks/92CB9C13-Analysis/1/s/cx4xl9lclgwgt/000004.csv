@@ -1,0 +1,4 @@
+"0","#x <- ggplot(data = YearlyAverageTemp, aes(Year, YearlyDiffTemp, group = 1))"
+"0","#x +  geom_point() + geom_line(color = 'red') + geom_smooth()"
+"0","#clean up"
+"0","#rm(a,b,x,YearlyDiff, YearlyDiffTemp, YearlyAverageTemp, temp1900, UStemp1990)"

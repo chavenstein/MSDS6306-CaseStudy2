@@ -1,0 +1,3 @@
+"0","YearlyDiffTemp<-round(diff(YearlyAverageTemp$Average.Temp), 3)"
+"0","YearlyAverageTemp$DiffTempFromPreviousYear <- c(""NA"", YearlyDiffTemp)"
+"0","YearlyAverageTemp"

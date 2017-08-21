@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503258522599.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "90F3C7EA",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1503258522599,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B1407810",
+        "caption" : "CityTemp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CityTemp&cache_key=B1407810",
+        "displayedObservations" : 237200,
+        "environment" : "",
+        "object" : "CityTemp",
+        "preview" : 0,
+        "totalObservations" : 237200,
+        "variables" : 7
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,6 @@
+"0","##Enable the weathermetrics package to convert temperature from Celsius to Fahrenheit"
+"0","##Need to run install.packages(“weathermetrics"") to install package first if have not."
+"0","library(weathermetrics)"
+"0","##Create a new column to display the monthly average land temperatures in Fahrenheit (°F). "
+"0","UStemp$Monthly.AverageTemp.Fahrenheit <- celsius.to.fahrenheit(UStemp$Monthly.AverageTemp)"
+"0","head(UStemp)"

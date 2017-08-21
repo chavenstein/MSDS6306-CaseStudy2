@@ -1,0 +1,2 @@
+"0","options(width =120)"
+"0","summaryBy(circumference~Tree, data = Orange, FUN = c(mean, median, max, min))"
