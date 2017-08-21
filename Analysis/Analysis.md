@@ -9,15 +9,15 @@ Overview to Analysis.md
 This file, Analysis.md, includes the analysis of two different questions. Each question has included sub-questions. The questions came from the "casestudy2.pdf" provided by Dr. Jongwook Woo. Last, "Analysis.md" contains a conclusion.
 
 -   **Question 2: Orange data analysis**
-    -   Step (a), calculate the mean and median trunk circumferences for different size of trees.
-    -   Step (b), make a scatter plot of the trunk ciercumferences against the age of the tree. Use different plotting symbols.
-    -   Step (c), Display the trunk circumferences on a comparative boxplot against tree. Be sure to order the boxplots in the increasing order of maximum diameter.
+    -   Step **(a)**, calculate the mean and median trunk circumferences for different size of trees.
+    -   Step **(b)**, make a scatter plot of the trunk ciercumferences against the age of the tree. Use different plotting symbols.
+    -   Step **(c)**, Display the trunk circumferences on a comparative boxplot against tree. Be sure to order the boxplots in the increasing order of maximum diameter.
 -   **Question 3: Country, US temperature, and city temperature data analysis**
     -   First, **(i)** find the difference between the maximum and the minimum monthly average temperatures for each country and report/visualize the top 20 countries with the maximum differences for the period since 1900.
     -   Second, **(ii)** select a subset of data called “UStemp” with US land temperatures from 01/01/1990 in the Temp dataset. Use the UStemp dataset to answer the following: **(a)** Create a new column to display the monthly average land temperatures in Fahrenheit (°F). **(b)** Calculate average land temperature by year and plot it. The original file has the average land temperature by month. **(c)** Calculate the one year difference of average land temperature by year and provide the maximum difference (value) with corresponding two years.
     -   Third, **(iii)** download “CityTemp” data set at box.com. Find the difference between the maximum and the minimum temperatures for each major city and report/visualize top 20 cities with maximum differences for the period since 1900.
     -   Last, **(iv)** compare the two graphs in **(i)** and **(iii)** and comment it.
--   Conclusion:
+-   **Conclusion**:
     -   Our closing thoughts are included in this section.
 
 Question 2. Orange data analysis
